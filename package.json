@@ -1,0 +1,8 @@
+{
+  "name": "jenkins-lab11",
+  "version": "1.0.0",
+  "description": "CSC418 Lab 11 CI/CD Pipeline",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
